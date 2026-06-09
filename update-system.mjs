@@ -51,6 +51,7 @@ const SYSTEM_PATHS = [
   'modes/project.md',
   'modes/tracker.md',
   'modes/training.md',
+  'modes/eu-swe.md',
   'modes/latex.md',
   'modes/followup.md',
   'modes/interview-prep.md',
