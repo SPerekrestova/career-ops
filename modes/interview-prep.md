@@ -9,7 +9,7 @@ When the user asks to prep for an interview at a specific company+role, or when 
 3. **Story bank** at `interview-prep/story-bank.md` — read for existing prepared stories
 4. **CV** at `cv.md` + `article-digest.md` — read for proof points
 5. **Profile** at `config/profile.yml` + `modes/_profile.md` — read for candidate context
-6. **Recruiter-side risk map** from the evaluation/PDF/application flow if present — read for doubts the interview process must resolve
+6. **Recruiter-side risk map** from the evaluation/PDF/application flow if present — use `modes/heuristics/recruiter-side.md` for the risk categories the interview process must resolve
 
 ## Step 1 — Research
 

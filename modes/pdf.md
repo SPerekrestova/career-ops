@@ -10,13 +10,13 @@
    - US/Canada → `letter`
    - Rest of the world → `a4`
 6. Detect role archetype → adapt framing
-7. Build an internal recruiter-side risk map from the JD: likely doubts, matching evidence, and which document section should address each doubt
+7. Build an internal recruiter-side risk map from the JD using `modes/heuristics/recruiter-side.md`: likely doubts, matching evidence, and which document section should address each doubt
 8. Rewrite Professional Summary by injecting JD keywords + exit narrative bridge ("Built and sold a business. Now applying systems thinking to [JD domain].")
 9. Select top 3-4 most relevant projects for the job
 10. Reorder experience bullets by JD relevance and by the risk map: strongest matching evidence first
 11. Build competency grid from JD requirements (6-8 keyword phrases)
 12. Inject keywords naturally into existing achievements (NEVER invent)
-13. Apply the six-second clarity gate from `_shared.md`: top third must make target role, strongest fit, and proof obvious
+13. Apply the six-second clarity gate from `modes/heuristics/recruiter-side.md`: top third must make target role, strongest fit, and proof obvious
 14. Generate full HTML from template + personalized content
 15. Read `name` from `config/profile.yml` → normalize to kebab-case lowercase (e.g. "John Doe" → "john-doe") → `{candidate}`
 16. Write HTML to `/tmp/cv-{candidate}-{company}.html`
